@@ -1,0 +1,3 @@
+PKG radarr
+SYSRC radarr_enable="YES"
+SERVICE radarr start
